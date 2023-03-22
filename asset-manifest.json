@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gabr1eli4/Movies/static/css/main.092bad3b.css",
+    "main.js": "/Gabr1eli4/Movies/static/js/main.9b171326.js",
+    "index.html": "/Gabr1eli4/Movies/index.html",
+    "main.092bad3b.css.map": "/Gabr1eli4/Movies/static/css/main.092bad3b.css.map",
+    "main.9b171326.js.map": "/Gabr1eli4/Movies/static/js/main.9b171326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092bad3b.css",
+    "static/js/main.9b171326.js"
+  ]
+}
